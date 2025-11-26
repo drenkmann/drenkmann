@@ -6,6 +6,4 @@
 
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drenkmann&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/drenkmann)
-
 </div>
